@@ -5,4 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1470-shuffle-the-array) |
+| [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
