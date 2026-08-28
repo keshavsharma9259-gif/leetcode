@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1470-shuffle-the-array) |
 | [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
