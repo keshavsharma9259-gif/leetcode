@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0367-valid-perfect-square) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0367-valid-perfect-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
