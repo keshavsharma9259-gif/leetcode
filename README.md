@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
+| [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1470-shuffle-the-array) |
 | [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
@@ -100,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keshavsharma9259-gif/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
