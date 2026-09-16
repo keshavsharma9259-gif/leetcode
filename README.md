@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0367-valid-perfect-square) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
