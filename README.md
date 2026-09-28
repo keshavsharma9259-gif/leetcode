@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
