@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0176-second-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
