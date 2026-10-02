@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3379-transformed-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Tree
