@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0200-number-of-islands) |
 | [0941-valid-mountain-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1051-height-checker) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
