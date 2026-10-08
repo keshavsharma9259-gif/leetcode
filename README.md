@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0126-word-ladder-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,8 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
