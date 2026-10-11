@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keshavsharma9259-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3046-split-the-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/keshavsharma9259-gif/leetcode/tree/master/3379-transformed-array) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/keshavsharma9259-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keshavsharma9259-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
